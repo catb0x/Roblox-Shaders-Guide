@@ -26,9 +26,9 @@ Install all of those before continuing with this guide.
    b. If you don't see it, create a new folder with that name, and copy the files in the `Effects` folder from this repo to the folder you just made
 5. Go into GeForce Experience, go to Settings, and enable "in-game overlay"
 
-### SKIP 5 IF BLOXSTRAP IS HIGHER THAN VERSION 2.5.4
+### SKIP 6 IF BLOXSTRAP IS HIGHER THAN VERSION 2.5.4
 
-5. Go to the `BloxstrapEXE` file in the repo and replace `Bloxstrap.exe` in `%LocalAppData%\Bloxstrap` with the `Bloxstrap.exe` in the `BloxstrapEXE` folder (updates should be auto-disabled but make sure it's disabled in the bloxstrap menu)
+6. Go to the `BloxstrapEXE` file in the repo and replace `Bloxstrap.exe` in `%LocalAppData%\Bloxstrap` with the `Bloxstrap.exe` in the `BloxstrapEXE` folder (updates should be auto-disabled but make sure it's disabled in the Bloxstrap menu)
    
    **If Bloxstrap added the function of changing the Roblox executable name, change it to `eurotrucks2.exe`**
    
