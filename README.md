@@ -39,5 +39,5 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 ### Error: "A supported game is required to use this feature"
 
 1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`**
-2. Update Roblox, update your Drivers, and if it still breaks, reinstall GeForce Experience and repeat steps 1 to 5
+2. Disable and enable the overlay, restart, update Roblox, update your Drivers, and if it still breaks, reinstall GeForce Experience and repeat steps 1 to 5
    
