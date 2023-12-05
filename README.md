@@ -25,9 +25,17 @@ Install all of those before continuing with this guide.
    
    b. If you don't see it, create a new folder with that name, and copy the files in the `Effects` folder from this repo to the folder you just made
 5. Go into GeForce Experience, go to Settings, and enable "in-game overlay"
-6. If Bloxstrap version is **under 2.6.0**, go to the `BloxstrapEXE` file in the repo and replace `Bloxstrap.exe` in `%LocalAppData%\Bloxstrap` with the `Bloxstrap.exe` in the `BloxstrapEXE` folder (updates should be auto-disabled but make sure it's disabled in the Bloxstrap menu)
-   
-   **If Bloxstrap added the function of changing the Roblox executable name, which will be added on version 2.6.0, probably in the behaviour or installation tab, change it to `eurotrucks2.exe`!**
+6. If Bloxstrap version is **under 2.6.0**:
+
+   a. If you are logged into GitHub, [download the modified Bloxstrap](https://github.com/pizzaboxer/bloxstrap/suites/17761020689/artifacts/1017388973), extract it, and copy the `Bloxstrap.exe` file
+
+   b. If you aren't, go to the `BloxstrapEXE` file in the repo and and copy the `Bloxstrap.exe` file
+
+   After that, go to `%LocalAppData%\Bloxstrap` and paste and replace the `Bloxstrap.exe` file 
+
+   If Bloxstrap version is (over) **2.6.0**:
+
+   Change the Roblox executable name to `eurotrucks.exe` **in the Bloxstrap menu**
    
 You don't need to do anything from this point, just join Roblox, press <kbd>Alt</kbd> + <kbd>F3</kbd> (to open Game Filter menu) or <kbd>Alt</kbd> + <kbd>Z</kbd> (to open ShadowPlay Menu, click on Game Filter in that menu) to apply any filters you want!
 
