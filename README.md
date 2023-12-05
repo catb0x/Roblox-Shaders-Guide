@@ -8,7 +8,7 @@
 2. An NVIDIA GPU
 3. [NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector)
 4. [GeForce Experience \(especially ShadowPlay\)](https://www.nvidia.com/en-us/geforce/geforce-experience/)
-5. Newest NVIDIA **Game Ready** Drivers
+5. [Newest NVIDIA **Game Ready** Drivers](https://www.nvidia.com/download/find.aspx)
 6. [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
 
 Install all of those before continuing with this guide.
@@ -25,12 +25,9 @@ Install all of those before continuing with this guide.
    
    b. If you don't see it, create a new folder with that name, and copy the files in the `Effects` folder from this repo to the folder you just made
 5. Go into GeForce Experience, go to Settings, and enable "in-game overlay"
-
-### SKIP 6 IF BLOXSTRAP IS HIGHER THAN VERSION 2.5.4
-
-6. Go to the `BloxstrapEXE` file in the repo and replace `Bloxstrap.exe` in `%LocalAppData%\Bloxstrap` with the `Bloxstrap.exe` in the `BloxstrapEXE` folder (updates should be auto-disabled but make sure it's disabled in the Bloxstrap menu)
+6. If Bloxstrap version is **under 2.6.0**, go to the `BloxstrapEXE` file in the repo and replace `Bloxstrap.exe` in `%LocalAppData%\Bloxstrap` with the `Bloxstrap.exe` in the `BloxstrapEXE` folder (updates should be auto-disabled but make sure it's disabled in the Bloxstrap menu)
    
-   **If Bloxstrap added the function of changing the Roblox executable name, change it to `eurotrucks2.exe`**
+   **If Bloxstrap added the function of changing the Roblox executable name, which will be added on version 2.6.0, probably in the behaviour or installation tab, change it to `eurotrucks2.exe`!**
    
 You don't need to do anything from this point, just join Roblox, press <kbd>Alt</kbd> + <kbd>F3</kbd> (to open Game Filter menu) or <kbd>Alt</kbd> + <kbd>Z</kbd> (to open ShadowPlay Menu, click on Game Filter in that menu) to apply any filters you want!
 
@@ -40,4 +37,3 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 
 1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`**
 2. Disable and enable the overlay, restart, update Roblox, update your Drivers, and if it still breaks, reinstall GeForce Experience and repeat steps 1 to 5
-   
