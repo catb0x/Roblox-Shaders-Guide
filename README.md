@@ -29,7 +29,7 @@ Install all of those before continuing with this guide.
 
    a. If you are logged into GitHub, [download the modified Bloxstrap](https://github.com/pizzaboxer/bloxstrap/suites/17761020689/artifacts/1017388973), extract it, and copy the `Bloxstrap.exe` file
 
-   b. If you aren't, go to the `BloxstrapEXE` file in the repo and and copy the `Bloxstrap.exe` file
+   b. If you aren't, go to the `BloxstrapEXE` file in the repo and and copy the `Bloxstrap.exe` file (SHA256 Hash: `42FFCEFDB485BC6833F2DB4209CB6433BAB0C59DEBB2A1FF77475E06AEBA5BAD`)
 
    After that, go to `%LocalAppData%\Bloxstrap` and paste and replace the `Bloxstrap.exe` file 
 
