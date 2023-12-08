@@ -16,9 +16,9 @@ Install all of those before continuing with this guide.
 ## Guide
 
 1. Open NVIDIA Profile Inspector
-2. Go to the "Other" section and turn "Ansel flags for enabled applications" to `0x00000001 ANSEL_ALLOWLISTED_ALLOWED`
+2. Go to the "Other" section and turn "Ansel flags for enabled applications" to `0x00000001 ANSEL_ALLOWLISTED_ALLOWED`, "Ansel - Enabled" to `On`, and "NVIDIA Predefined Ansel Usage" to `0x00000001 ANSEL_ALLOW_ALLOWED`
 
-![image](https://github.com/catb0x/Roblox-Shaders-Guide/assets/77354428/2a2a0399-e76b-4556-b963-24edb7c024ed)
+![image](https://github.com/catb0x/Roblox-Shaders-Guide/assets/77354428/deb9405d-b670-4463-9e2e-15cd67bdf61e)
 
 3. Download this repo, and go to `C:\Program Files\NVIDIA Corporation`
 4. a. If you see a folder named `Ansel`, delete all shaders in it and copy the files in the `Effects` folder from this repo to the `Ansel` folder
