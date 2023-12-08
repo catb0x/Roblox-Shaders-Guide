@@ -27,9 +27,9 @@ Install all of those before continuing with this guide.
 5. Go into GeForce Experience, go to Settings, and enable "in-game overlay"
 6. If Bloxstrap version is **under 2.6.0**:
 
-   a. If you are logged into GitHub, [download the modified Bloxstrap](https://github.com/pizzaboxer/bloxstrap/suites/17761020689/artifacts/1017388973), extract it, and copy the `Bloxstrap.exe` file
+   a. If you are logged into GitHub, [download the official Bloxstrap.exe modification](https://github.com/pizzaboxer/bloxstrap/suites/17761020689/artifacts/1017388973), extract it, and copy-paste the `Bloxstrap.exe` file into the Bloxstrap directory
 
-   b. If you aren't, go to the `BloxstrapEXE` file in the repo and and copy the `Bloxstrap.exe` file (SHA256 Hash: `42FFCEFDB485BC6833F2DB4209CB6433BAB0C59DEBB2A1FF77475E06AEBA5BAD`)
+   b. If you aren't, go to the `BloxstrapEXE` file in the repo and and copy-paste the `Bloxstrap.exe` file into the Bloxstrap directory (SHA256 Hash: `42FFCEFDB485BC6833F2DB4209CB6433BAB0C59DEBB2A1FF77475E06AEBA5BAD`, compare it with the hash of the Bloxstrap.exe from the GitHub link if you want.)
 
    After that, go to `%LocalAppData%\Bloxstrap` and paste and replace the `Bloxstrap.exe` file 
 
@@ -44,4 +44,4 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 ### Error: "A supported game is required to use this feature"
 
 1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`**
-2. Disable and enable the overlay, restart, update Roblox, update your Drivers, and if it still breaks, reinstall GeForce Experience and repeat steps 1 to 5
+2. Disable and enable the overlay, restart, update Roblox, update your Drivers, reinstall GeForce Experience, or reinstall drivers and repeat steps 1 to 5
