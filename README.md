@@ -45,3 +45,37 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 
 1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`**
 2. Disable and enable the overlay, restart, update Roblox, update your Drivers, reinstall GeForce Experience, or reinstall drivers and repeat steps 1 to 5
+
+### SSR breaks in fullscreen mode
+
+1. Enable fullscreen in the Roblox menu
+2. Leave and rejoin
+3. Continue using fullscreen or disable fullscreen and enable exclusive fullscreen with <kbd>Alt</kbd> + <kbd>Enter</kbd>
+
+## Presets
+
+### Creating a preset
+
+1. Download the [Ansel Configuration Utility](https://international-gfe.download.nvidia.com/GFE/GFEClient/NVCameraConfiguration/v1.0/NVCameraConfiguration_v1.0.0.6.zip)
+2. Open it and enable "Save Preset with Shot"
+
+![image](https://github.com/catb0x/Roblox-Shaders-Guide/assets/77354428/ab38024d-5fc4-437b-871e-8209ebc77957)
+
+
+4. Launch Roblox
+5. Press <kbd>Alt</kbd> + <kbd>F2</kbd> to open the Ansel Photo mode overlay
+6. Add the filters you want in the preset and take a photo
+7. Exit the overlay and press <kbd>Alt</kbd> + <kbd>Z</kbd> to open the ShadowPlay menu
+8. Click on "Gallery", click on the photo you just made, and click "Open File Location"
+9. (optional) Rename the `.ini` file to anything
+10. Copy the `.ini` file and go to `C:\Program Files\NVIDIA Corporation\Ansel\`
+11. a. If you see the `Custom` folder, go into it and paste the `.ini`
+
+    b. If you don't, create it, go into it, and paste the `.ini`
+
+### Using a preset
+
+1. Open Roblox and open the Game Filter menu
+2. Select one of the three loadouts, search for the name of the `.ini` file, and press on it
+
+You should now see the preset being used as a filter.
