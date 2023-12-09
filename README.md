@@ -31,7 +31,7 @@ Install all of those before continuing with this guide.
 
    b. If you aren't, go to the `BloxstrapEXE` file in the repo and and copy-paste the `Bloxstrap.exe` file into the Bloxstrap directory (SHA256 Hash: `42FFCEFDB485BC6833F2DB4209CB6433BAB0C59DEBB2A1FF77475E06AEBA5BAD`, compare it with the hash of the Bloxstrap.exe from the GitHub link if you want.)
 
-   After that, go to `%LocalAppData%\Bloxstrap` and paste and replace the `Bloxstrap.exe` file 
+   After that, go to `%LocalAppData%\Bloxstrap` and paste and replace the `Bloxstrap.exe` file, and disable automatic updates in the Behaviour tab.
 
    If Bloxstrap version is (over) **2.6.0**:
 
