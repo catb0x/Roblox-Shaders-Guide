@@ -44,7 +44,11 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 ### Error: "A supported game is required to use this feature"
 
 1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`**
-2. Disable and enable the overlay, restart, update Roblox, update your Drivers, reinstall GeForce Experience, or reinstall drivers and repeat steps 1 to 5
+2. Restart, update Roblox, update your Drivers, reinstall GeForce Experience, or/and reinstall drivers and repeat steps 1 to 5
+
+### Game Filter menu doesn't open
+
+1. Disable and enable the overlay or/and restart. If that doesn't work, update your Drivers, reinstall GeForce Experience, or/and reinstall drivers and repeat steps 1 to 5
 
 ### SSR breaks in fullscreen mode
 
