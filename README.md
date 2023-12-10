@@ -50,9 +50,10 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 
 ### SSR breaks in fullscreen mode
 
-1. Enable fullscreen in the Roblox menu
-2. Leave and rejoin
-3. Continue using fullscreen or disable fullscreen and enable exclusive fullscreen with <kbd>Alt</kbd> + <kbd>Enter</kbd>
+1. Disable shaders with the "Off" loadout
+2. Leave Roblox and enter a game or the Beta Menu
+3. Enable fullscreen
+4. Enable any loadout and your SSR should be fixed!
 
 ## Presets
 
