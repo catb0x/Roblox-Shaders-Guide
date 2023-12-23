@@ -31,10 +31,6 @@ Install all of those before continuing with this guide.
 
    b. If you aren't, go in the Bloxstrap menu, disable automatic updates in the Behaviour tab, go to the `BloxstrapEXE` file in the repo, copy-paste the `Bloxstrap.exe` file into the Bloxstrap directory (SHA256 Hash: `42FFCEFDB485BC6833F2DB4209CB6433BAB0C59DEBB2A1FF77475E06AEBA5BAD`, compare it with the hash of the Bloxstrap.exe from the GitHub link if you want.), go to `%LocalAppData%\Bloxstrap` and paste and replace the `Bloxstrap.exe` file.
 
-   If Bloxstrap version is (over) **2.6.0**: (probably not released if you're reading this)
-
-   Change the Roblox executable name to `eurotrucks.exe` **in the Bloxstrap menu**
-
 You don't need to do anything from this point, just join Roblox, press <kbd>Alt</kbd> + <kbd>F3</kbd> (to open Game Filter menu) or <kbd>Alt</kbd> + <kbd>Z</kbd> (to open ShadowPlay Menu, click on Game Filter in that menu) to apply any filters you want!
 
 ## Troubleshooting
