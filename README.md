@@ -37,8 +37,8 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 
 ### Error: "A supported game is required to use this feature"
 
-1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`**
-2. Restart, update Roblox, update your Drivers, reinstall GeForce Experience, or/and reinstall drivers and repeat steps 1 to 5
+1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`** (if it isn't then you didnt replace the Bloxstrap executable)
+2. Restart, update Roblox, update your Drivers, reinstall GeForce Experience, or/and reinstall drivers (you might have to repeat steps 1 to 5)
 
 ### Game Filter menu doesn't open
 
@@ -46,10 +46,7 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 
 ### SSR breaks in fullscreen mode
 
-1. Disable shaders with the "Off" loadout
-2. Leave Roblox and enter a game or the Beta Menu
-3. Enable fullscreen
-4. Enable any loadout and your SSR should be fixed!
+1. Enable Fullscreen before enabling the shaders
 
 ## Presets
 
