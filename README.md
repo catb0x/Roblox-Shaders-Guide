@@ -35,6 +35,7 @@ You don't need to do anything from this point, just join Roblox, press <kbd>Alt<
 
 1. **Make sure Bloxstrap is installing Roblox as `eurotrucks2.exe` instead of `RobloxPlayerBeta.exe`** (if it isn't then you didnt replace the Bloxstrap executable)
 2. Restart, update Roblox, update your Drivers, reinstall GeForce Experience, or/and reinstall drivers (you might have to repeat steps 1 to 5)
+3. If it still doesn't work, try changing your dirver version (use an older one or/and use a studio driver)
 
 ### Game Filter menu doesn't open
 
