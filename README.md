@@ -2,6 +2,8 @@
 
 [Thanks to Toast RBX for creating the original tutorial!](https://www.youtube.com/watch?v=zhSWJnxKIlg)
 
+# [BLOXSHADE](https://github.com/Extravi/Bloxshade) RELEASED, IF YOU'RE USING BLOXSHADE AND WANT YOUR SHADERS TO WORK SKIP STEPS 3 AND 4
+
 ## Requirements
 
 1. A PC
